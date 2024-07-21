@@ -1,3 +1,5 @@
+This is a copy of my group project for my CS411 databases courses. We created a inventory management system app for students to borrow various items. Alongside myself, I was on a team with Elliot Nam, Luke Albarracin, and Cristian Ocampo-Padilla.
+
 Credits:
 - [Image Logo](https://iconscout.com/free-icon/school-education-building-infrastructure-real-estate-emoj-symbol), Credit: Logo Displayed on Tab is by [Twitter Emoji](https://iconscout.com/contributors/twitter-inc), usable under the Creative Commons 4 License
 
