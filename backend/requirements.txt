@@ -1,0 +1,9 @@
+fastapi
+aiomysql
+uvicorn
+pydantic
+python-dotenv
+mysql-connector-python
+PyJWT
+python-decouple
+pytz
